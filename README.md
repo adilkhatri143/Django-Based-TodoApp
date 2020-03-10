@@ -1,4 +1,4 @@
 # Django-Based-TodoApp
 
-[Actual Website](adilkhatri143.pythonanywhere.com)
+<a href="adilkhatri143.pythonanywhere.com">Actual Website</a>
 
